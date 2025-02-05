@@ -72,7 +72,7 @@ Bright Data’s CAPTCHA Solver supports a wide range of CAPTCHA types, including
 
 [Bright Data’s CAPTCHA Solver](https://github.com/luminati-io/Captcha-solver) allows for advanced customization to fine-tune solving logic for specific scenarios.
 
-### **Custom Options for DataDome Challenges**  
+### **Custom Options for hCaptcha Challenges**  
 ```javascript
 // Define default options for different CAPTCHA types
 function getCaptchaOptions(captchaType, customOptions = {}) {
