@@ -129,6 +129,7 @@ try {
 } catch (error) {
   console.error('Failed to solve CAPTCHA:', error.message);
 }
+```
 
 ## **Event Monitoring**  
 Track CAPTCHA-solving events to handle advanced use cases:  
