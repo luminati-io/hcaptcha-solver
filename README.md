@@ -1,6 +1,8 @@
 # hCaptcha CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-unlocker/captcha-solver/hcaptcha)
+<a href="https://brightdata.com/products/web-unlocker/catpcha-solver/hcaptcha">
+   <img src="https://github.com/luminati-io/hcaptcha-solver/blob/main/hCaptcha solver.png" alt="hCaptcha Solver" />
+</a>
 
 Effortlessly bypass hCaptcha CAPTCHAs with Bright Data's advanced CAPTCHA-solving technology. Leverage machine-learning algorithms, [automated IP rotation](https://brightdata.com/solutions/rotating-proxies), and a robust proxy infrastructure to ensure seamless and consistent access to target sites.  
 
